@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Customer()
+comment1.params=
+comment1.target=Customer\ getNext()
+comment2.params=c
+comment2.target=void\ setNext(Customer)
+comment3.params=
+comment3.target=int\ getServiceTime()
+comment4.params=
+comment4.target=void\ decServiceTime()
+numComments=5
